@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "401658717205",
+    "firebase_url": "https://samosa-2e21d.firebaseio.com",
+    "project_id": "samosa-2e21d",
+    "storage_bucket": "samosa-2e21d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401658717205:android:8cede93dc28e63e5",
+        "android_client_info": {
+          "package_name": "com.samosa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401658717205-j9mhtajqcdm3bmuupi20abvl37aiv753.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW_Jjfgj_ksE4Jm6NlDQXXqiAjYQODcsA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

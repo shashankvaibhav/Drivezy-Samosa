@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "534947566558",
+    "firebase_url": "https://samosa-9e35a.firebaseio.com",
+    "project_id": "samosa-9e35a",
+    "storage_bucket": "samosa-9e35a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534947566558:android:6055f6149c09f04e",
+        "android_client_info": {
+          "package_name": "in.samosa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534947566558-o6ta5gbqstdkroh6mc99v0jtd2333ld8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxjYvo42YF3LmtutfZ1cXvOQaVB1cKVyk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534947566558:android:8cede93dc28e63e5",
+        "android_client_info": {
+          "package_name": "com.samosa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534947566558-o6ta5gbqstdkroh6mc99v0jtd2333ld8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxjYvo42YF3LmtutfZ1cXvOQaVB1cKVyk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

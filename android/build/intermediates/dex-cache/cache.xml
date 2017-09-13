@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ce6e6e59212db0893fc36e5b579cf319a84aade8">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.0.0_94595d1c4a59777cb2fb387eeb7c84846b25e33f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fb0229499e600b485a276d4e31161a3ae31c144c">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-10.0.0_f8500c1c33364ba536c424bf7676305b102cedf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_1c1d321eac117374e0df98896cdb80420ecdd968.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_2aa985280f46a34bba5ac040dc14085fbd15b3e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_85916c99024b735fc94e9499958390724e1ec615.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.1/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_558762ee9768cc4470797f7a6f1ae67d3d1e08b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_580dea0c54b6ec637015466e901bad32a69562ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="985be85104f6d0c5c5e51e7b7e60d8883a98ac64">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.0_d5b0dcb26b9fcc63e96fe91706d1c1d84fc4a27e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_bad8753bcb5d8a6c0fd3d24f053f423bdfd102c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7ed3fd9d5a9687980dac6c504abd91ad3dfa238">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.0.0_54ae32a18d70db9e8cedcc705ca2aeb7c262fa31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3347c3e7056fabc88bdbd8fdae65ddf2b674d977">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.0_e407ccbdb51a8ff83a72846a0d8e13b92db34c98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5ac49e5d5aea8772c8018ce2888145f04c5fe7ca">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-10.0.0_f740012466924b55c0dcd91978ac9189257182ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8bb364f67ec2eba2356872b2b4ddfe8aada2d5ac">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-10.0.0_102e8e9bc9421b699917cdbad6c2a2b613fef874.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/Samosa/react-native-google-signin/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="41490f44fd0f360cee24fab24a32eef78ab3405f">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/Samosa-react-native-google-signin-unspecified_66a88d245ef0b961785ffc6893797a95140d0444.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_2234ea559d53bdf7c3716d1602980752a982d438.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a18773c279bde7e49e09f621aea613685c108c7f">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-10.0.0_a1097740a49543903a4b57aeffc665f9bd860d29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_7a73abdf13b43a057f5404da99ca2ed24cdddda2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_93ddc512af42d91ebcc622d9bf1088b48b7204af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="75dbc3537bc912d077b3db2f5ac72d5b43644b2c">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.0_82bae67e30675afceb92058396b608394ead781d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="444a220fadbdf260b3aa47c6e858c5d1e645170f">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-10.0.0_ec1dbb02ac63758dec53e38760490392b0b68726.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3a05b3852a6aec21ea0a6ea4d284ee69c04c55c4">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-10.0.0_f9966c1cafe19d461cbda811eac54226f56ea2b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2376d0ec8dbe85d3446cad64905c0395fbe220e">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-10.0.0_1adef00cadab2d9cb66140ab9bdafcb29243f2b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ca730ac2d72056445bf68998cec6b6b2cf4d179e">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-10.0.0_70fc17619ec3c7df60864168d3f3a2fce8590dad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_dc3a244ab0bf72f3952072de91aa963b81dbac57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="73fe8ab7f76e41d0cabbc4fa3399557de52efb2d">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-10.0.0_e1d72a45ba4d4c96bc1eb563b418c02b695814b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="41e39c7ee84e63ae18df6c6ccb96d196996add4c">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-10.0.0_9e2c7925f1675004e7c613f84f83eba653d4490b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a383a583c346ce8ea5767d77f4fe58e1d8e5f221">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-10.0.0_41c8aa9f63b1a339a6a71f6afa135cb77dbedf0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ae809d521d9f7da5337a82edd64eea23a76e788d">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-10.0.0_3335b43bb976545c7cd86d29c7434c8d361f044e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/Samosa/react-native-firebase/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1d8278ce24f6eba079dd68c4bed5b61105c2f9cf">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/Samosa-react-native-firebase-unspecified_2886edd8631f7174991b1dd71e959ea230375518.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="849da156edbc1201f5cd6e237524187442a62af3">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-10.0.0_6b27f4d747450dca743b88de93dca11a4165776c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_adca972d2c1e76c8796e1d1c451928ad878bd102.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_bfb7f210e661dfab4ce0337fc5249248a2546f50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_43a0ee2e484e2d102cc70a3e1bb2d45706239b76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_025b1840c9378dd8e627935d63473c02cca968c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_d9a256195fc4e6b6e584809cb0f830f213d883da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_190db083a7c5880053b3dfb5e88f4df9788416f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_e5794265584e61df814d788f451d2694641396e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_efe2c4e4ad8d9630c83370fe197e88b8eab8f8a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="777627dcaf0eaacd4212220e8f2d0c63def91774">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-10.0.0_fe70022405aac3449132aad9142ca6877a57c0b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="576b5113887747a7592650ae14d980e1c57983c4">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.47.1_2a47636b036459e5344bfcfa9108aef57bee5273.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2b410ae1fda134f470276365f4b7f846269e0d23">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.0.0_e1038c7e2e15b9d933df8df50e5f29f4445eada1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a61005619e43f203768ff3f224137def6f029e50">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.0.0_36418725cd23c50ffe4ca9d986998e7da81fcd0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_180312ad414658c4e35aa8d0ffb07ecc92e2ed1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashankvaibhav/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/shashankvaibhav/Desktop/Samosa/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_4077b1c4d5c89f179a3b256f4802fc2e935da683.jar" />
+    </item>
+
+</items>
